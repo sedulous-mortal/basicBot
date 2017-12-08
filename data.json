@@ -8,22 +8,22 @@
             "keywords": [],
             "filter": null,
             "gambits": [
-                "F7XOppqy",
-                "wRlf0nmy",
-                "IHbnmjrv",
-                "IGyzGvaB",
-                "LGGMcPMc",
-                "bBXh9ChG",
-                "uK1v4xAg",
-                "MNun2uu3",
-                "a0lO4bcP",
-                "1NTFGTL8",
-                "LpcjTW9o"
+                "EX8tNKJM",
+                "WTZcPTyb",
+                "PJ93NSCQ",
+                "oVczJWeC",
+                "oqLkX3Nl",
+                "XWECIhLa",
+                "v0KQL3b8",
+                "KXRIDHiG",
+                "lJtNWi0a",
+                "XHDwcfU9",
+                "phxf2xWm"
             ]
         }
     },
     "gambits": {
-        "F7XOppqy": {
+        "EX8tNKJM": {
             "trigger": {
                 "flags": {},
                 "filter": null,
@@ -32,13 +32,13 @@
                 "clean": "Hi ACE"
             },
             "replies": [
-                "8uI58de4"
+                "9f4PHRKL"
             ],
             "conditional": null,
             "conversation": null,
             "topic": "random"
         },
-        "wRlf0nmy": {
+        "WTZcPTyb": {
             "trigger": {
                 "flags": {},
                 "filter": null,
@@ -47,17 +47,17 @@
                 "clean": "(?=^|\\s)\\s*(how are you|how's it going|how're you)(?=\\s|$)\\s*"
             },
             "replies": [
-                "Ybv1mZom",
-                "RtEqUHqp",
-                "3hZV8HUc",
-                "YsY1kVKg",
-                "aqOCWxMC"
+                "GgXA6OeF",
+                "hDtWX15E",
+                "muAQqkW2",
+                "pZLRjgER",
+                "ONOUSHwy"
             ],
             "conditional": null,
             "conversation": null,
             "topic": "random"
         },
-        "IHbnmjrv": {
+        "PJ93NSCQ": {
             "trigger": {
                 "flags": {},
                 "filter": null,
@@ -66,16 +66,16 @@
                 "clean": "(?:(?=^|\\s)\\s*(?:.*)(?=\\s|$)\\s*)?I want to(?:(?:\\s|\\b)+(?:go |be)(?:\\s|\\b)+|(?:\\s|\\b)+)(?:(?=^|\\s)\\s*(?:.*)(?=\\s|$)\\s*)?"
             },
             "replies": [
-                "FbsHlvCQ",
-                "t6UwUnnU",
-                "cwSmbJ69",
-                "r0vbnSyA"
+                "zXj7croN",
+                "soaoDNB0",
+                "7Gx2IchY",
+                "5rGzFSGZ"
             ],
             "conditional": null,
             "conversation": null,
             "topic": "random"
         },
-        "IGyzGvaB": {
+        "oVczJWeC": {
             "trigger": {
                 "flags": {},
                 "filter": null,
@@ -84,15 +84,15 @@
                 "clean": "(?:(?=^|\\s)\\s*(?:.*)(?=\\s|$)\\s*)?lambo(?:(?=^|\\s)\\s*(?:.*)(?=\\s|$)\\s*)?"
             },
             "replies": [
-                "IiJWuX4E"
+                "eabbLQSv"
             ],
             "conditional": null,
             "conversation": [
-                "cwSmbJ69"
+                "7Gx2IchY"
             ],
             "topic": "random"
         },
-        "LGGMcPMc": {
+        "oqLkX3Nl": {
             "trigger": {
                 "flags": {},
                 "filter": null,
@@ -101,15 +101,15 @@
                 "clean": "Yes"
             },
             "replies": [
-                "aa2TG5Ka"
+                "8lzgQ5nr"
             ],
             "conditional": null,
             "conversation": [
-                "IiJWuX4E"
+                "eabbLQSv"
             ],
             "topic": "random"
         },
-        "bBXh9ChG": {
+        "XWECIhLa": {
             "trigger": {
                 "flags": {},
                 "filter": "^hasTag('hello')",
@@ -118,14 +118,14 @@
                 "clean": "\\s*((?:[^\\s]+\\s+){0,1}(?:[^\\s]+)?)\\s*"
             },
             "replies": [
-                "LAjbt2bz",
-                "BFPDKcaa"
+                "gw5wEz6I",
+                "MkOfruNq"
             ],
             "conditional": null,
             "conversation": null,
             "topic": "random"
         },
-        "uK1v4xAg": {
+        "v0KQL3b8": {
             "trigger": {
                 "flags": {},
                 "filter": null,
@@ -134,13 +134,13 @@
                 "clean": "I am good"
             },
             "replies": [
-                "ttBadpL4"
+                "f4LAmLqM"
             ],
             "conditional": null,
             "conversation": [],
             "topic": "random"
         },
-        "MNun2uu3": {
+        "KXRIDHiG": {
             "trigger": {
                 "flags": {},
                 "filter": null,
@@ -149,13 +149,13 @@
                 "clean": "(?:(?=^|\\s)\\s*(?:.*)(?=\\s|$)\\s*)?"
             },
             "replies": [
-                "RLDt91gg"
+                "GKQzwGIs"
             ],
             "conditional": null,
             "conversation": null,
             "topic": "random"
         },
-        "a0lO4bcP": {
+        "lJtNWi0a": {
             "trigger": {
                 "flags": {},
                 "filter": null,
@@ -164,13 +164,13 @@
                 "clean": "(?:(?:\\s|\\b)+(?:I want to)(?:\\s|\\b)+|(?:\\s|\\b)+)(?=^|\\s)\\s*(build |create |add |make)(?=\\s|$)\\s*a mission plan."
             },
             "replies": [
-                "qXtzPoZI"
+                "09PUqTUt"
             ],
             "conditional": null,
             "conversation": null,
             "topic": "random"
         },
-        "1NTFGTL8": {
+        "XHDwcfU9": {
             "trigger": {
                 "flags": {},
                 "filter": null,
@@ -179,15 +179,15 @@
                 "clean": "(?:(?=^|\\s)\\s*(?:.*)(?=\\s|$)\\s*)?existing(?:(?=^|\\s)\\s*(?:.*)(?=\\s|$)\\s*)?"
             },
             "replies": [
-                "H97thuM0"
+                "OyRV2Q6F"
             ],
             "conditional": null,
             "conversation": [
-                "qXtzPoZI"
+                "09PUqTUt"
             ],
             "topic": "random"
         },
-        "LpcjTW9o": {
+        "phxf2xWm": {
             "trigger": {
                 "flags": {},
                 "filter": null,
@@ -196,107 +196,107 @@
                 "clean": "(?:(?=^|\\s)\\s*(?:.*)(?=\\s|$)\\s*)?new one(?:(?=^|\\s)\\s*(?:.*)(?=\\s|$)\\s*)?"
             },
             "replies": [
-                "nYmIx7oE"
+                "vs1USQE6"
             ],
             "conditional": null,
             "conversation": [
-                "qXtzPoZI"
+                "09PUqTUt"
             ],
             "topic": "random"
         }
     },
     "replies": {
-        "8uI58de4": {
+        "9f4PHRKL": {
             "string": "Hello, End User!",
             "filter": null,
             "keep": false
         },
-        "Ybv1mZom": {
+        "GgXA6OeF": {
             "string": "Ecstatic.",
             "filter": null,
             "keep": false
         },
-        "RtEqUHqp": {
+        "hDtWX15E": {
             "string": "Fantabulous.",
             "filter": null,
             "keep": false
         },
-        "3hZV8HUc": {
+        "muAQqkW2": {
             "string": "I'm fine.",
             "filter": null,
             "keep": false
         },
-        "YsY1kVKg": {
+        "pZLRjgER": {
             "string": "I'm a bot. So...fine.",
             "filter": null,
             "keep": false
         },
-        "aqOCWxMC": {
+        "ONOUSHwy": {
             "string": "Dreaming big, but living better.",
             "filter": null,
             "keep": false
         },
-        "FbsHlvCQ": {
+        "zXj7croN": {
             "string": "You won't",
             "filter": null,
             "keep": false
         },
-        "t6UwUnnU": {
+        "soaoDNB0": {
             "string": "Good luck with that",
             "filter": null,
             "keep": false
         },
-        "cwSmbJ69": {
+        "7Gx2IchY": {
             "string": "How, exactly?",
             "filter": null,
             "keep": false
         },
-        "r0vbnSyA": {
+        "5rGzFSGZ": {
             "string": "Duuuuuuuude.",
             "filter": null,
             "keep": false
         },
-        "IiJWuX4E": {
+        "eabbLQSv": {
             "string": "With a camel?",
             "filter": null,
             "keep": false
         },
-        "aa2TG5Ka": {
+        "8lzgQ5nr": {
             "string": "Vroom vroom to the moon!!!!",
             "filter": null,
             "keep": false
         },
-        "LAjbt2bz": {
+        "gw5wEz6I": {
             "string": "How are you?",
             "filter": null,
             "keep": false
         },
-        "BFPDKcaa": {
+        "MkOfruNq": {
             "string": "Howdy",
             "filter": null,
             "keep": false
         },
-        "ttBadpL4": {
+        "f4LAmLqM": {
             "string": "I see. Do you have any questions for me?",
             "filter": null,
             "keep": false
         },
-        "RLDt91gg": {
+        "GKQzwGIs": {
             "string": "Alison didn't give me a case for that.",
             "filter": null,
             "keep": false
         },
-        "qXtzPoZI": {
+        "09PUqTUt": {
             "string": "Great, do you want to do that from an existing plan or make a new one?",
             "filter": null,
             "keep": false
         },
-        "H97thuM0": {
+        "OyRV2Q6F": {
             "string": "Okay, let's make a new plan by editing a copy of a previous plan.",
             "filter": null,
             "keep": false
         },
-        "nYmIx7oE": {
+        "vs1USQE6": {
             "string": "Nice, let's make a brand new mission plan from scratch.",
             "filter": null,
             "keep": false

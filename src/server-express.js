@@ -21,7 +21,7 @@ server.get('/chat', (req, res) => {
        });
     });
   }
-  return res.json({error: error.message});
+  return 'error in server.get() in server-express.js in src folder!';
 });
 
 const options = {
